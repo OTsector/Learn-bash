@@ -3,7 +3,7 @@
 # escape არის დეფინიცია სხვადასხვა ტექსტური თუ სისტემური მნიშვნელი რომელიც გამოიყენება "\"_ის მნიშვნელით
 # იმისთვის რომ "echo"_მ მიიღოს escape სიმბოლოს მნიშვნელი საჭიროა დაემატოს " -e". მაგალითად: echo -e "ტექსტი\nტექსტი\n"
 echo -e "alert\a"
-echo -e "backspace\b"
+echo -e "backspace \bbackspace"
 echo -e "form feed\fform feed"
 echo -e "new line\nnew line"
 echo -e "carriage return\rcarriage return"
