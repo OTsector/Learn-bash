@@ -8,7 +8,6 @@ echo -e "form feed\fform feed"
 echo -e "new line\nnew line"
 echo -e "carriage return\rcarriage return"
 echo -e "horizontal tab\thorizontal tab"
-echo -e "vertical tab\tvertical tab"
 echo -e "backslash\\backslash"
 echo -e "double quotes\"double quotes"
 echo -e Single quotes\'ingle quotes
