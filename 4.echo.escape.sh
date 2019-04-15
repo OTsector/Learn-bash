@@ -15,3 +15,4 @@ echo -e Single quotes\'ingle quotes
 
 echo -e "\n\nმაგალითისთვის:"
 echo -e "\t\t _\n\t07\t[|] 0ffensive 7ester\n" # ASCII Art
+# printf "\t\t _\n\t07\t[|] 0ffensive 7ester\n"
